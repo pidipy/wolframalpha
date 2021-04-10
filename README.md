@@ -1,2 +1,2 @@
 # wolframalpha
-Playing with Wolfram
+Playing with WolframAlpha in Python
